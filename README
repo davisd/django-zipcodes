@@ -1,0 +1,24 @@
+===============
+django-zipcodes
+===============
+
+django-zipcodes is a very simple django U.S. zipcodes package, written to hold a database of zipcodes, import zipcodes from csv, calculate distance between zipcodes, and find zipcodes within a specified mile radius.
+
+
+Installation
+============
+
+A setup script (setup.py) is provided.  To install, simply run the script with
+the install command:
+
+$ python setup.py install
+
+Or just put the zipcodes package somewhere on the Python path.
+
+
+Author
+======
+
+David Davis <davisd@davisd.com>
+http://www.davisd.com
+
